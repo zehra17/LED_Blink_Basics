@@ -1,23 +1,18 @@
-Turning on an LED with a Push Button
-Description:
-This project demonstrates the fundamental concept of controlling an LED using a push button. When the button is pressed, the LED turns on.
+# LED Blinking with a Push Button
 
-Hardware:
+**Description:**
+A simple Arduino project that turns on an LED when a push button is pressed.
 
-Arduino board
-LED
-Push button
-Resistors
-Software:
+**Hardware:**
+* Arduino board
+* LED
+* Push button
+* Resistor
 
-Arduino IDE
-How to Use:
+**Software:**
+* Arduino IDE
 
-Circuit Setup: Connect the components as shown in the circuit diagram.
-Code Upload: Upload the provided code to the Arduino board.
-Run the Project: Press the button to turn the LED on and off.
-Learning Outcomes:
-
-Digital input and output pins
-Basic circuit design
-Using a push button as an input device
+**How to Use:**
+1. Connect the components as shown in the circuit diagram.
+2. Upload the provided code to the Arduino board.
+3. Press the button to turn the LED on and off.
