@@ -13,4 +13,3 @@
 1. Connect the components as shown in the circuit diagram.
 2. Upload the provided code to the Arduino board.
 3. Observe the LED blinking at a defined interval.
-
