@@ -1,18 +1,16 @@
-# LED Blinking with a Push Button
+## Blink Application (LED Blinking)
+**Description:** An Arduino project that makes an LED blink at regular intervals.
 
-**Description:**
-A simple Arduino project that turns on an LED when a push button is pressed.
+### Hardware:
+- Arduino board
+- LED
+- Resistor
 
-**Hardware:**
-* Arduino board
-* LED
-* Push button
-* Resistor
+### Software:
+- Arduino IDE
 
-**Software:**
-* Arduino IDE
-
-**How to Use:**
+### How to Use:
 1. Connect the components as shown in the circuit diagram.
 2. Upload the provided code to the Arduino board.
-3. Press the button to turn the LED on and off.
+3. Observe the LED blinking at a defined interval.
+
